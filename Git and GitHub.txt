@@ -1,0 +1,28 @@
+Git and GitHub
+1/ Introduction
+Understanding Version Control
+
+Version control systems allow tracking changes to source code, making it easier to recover previous versions and collaborate with team members.
+An example illustrates how version control helps manage contributions, like a shopping list, preventing confusion.
+Introduction to Git
+
+Git is a distributed version control system (DVCS) that enables users worldwide to have copies of projects and sync changes to a remote server.
+It supports various file types and branching strategies, enhancing project organization and management.
+Key Terms in Git and GitHub
+
+Important terms include repository (project folder), fork (copy of a repository), pull request (request for review), commit (snapshot of changes), branch (development line), merge (combining changes), and clone (local copy of a repository).
+
+2/ Git branches
+Understanding GitHub Branches
+
+All files in GitHub are stored on branches, with the main branch being the definitive version of the code. ( final and deployable version )
+New branches can be created for changes, starting as copies of the original branch, allowing for parallel development.
+
+Managing Code Changes
+
+Developers commit changes to a branch, indicating a stable version of the code, and must write meaningful comments for each commit.
+Pull requests are used to propose changes for review and merging into the main branch, requiring approval from team members.
+Merging and Finalizing Changes
+
+Once changes are approved, they can be merged back into the main branch, and obsolete branches should be deleted after their changes are integrated.
+The process ensures that the main branch remains the only deployed code, maintaining a clear and organized workflow.
